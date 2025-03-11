@@ -4,7 +4,7 @@
 
 ## Installation
 ```sh
-git clone 
+git clone https://github.com/rayani-sami/hospitalmanagement.git
 cd hospitalmanagement
 cp .env.example .env
 composer install
