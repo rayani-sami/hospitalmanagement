@@ -4,8 +4,8 @@
 
 ## Installation
 ```sh
-git clone https://github.com/Samir-Gamal/hospital-management-system.git
-cd hospital-management-system
+git clone 
+cd hospitalmanagement
 cp .env.example .env
 composer install
 php artisan key:generate
